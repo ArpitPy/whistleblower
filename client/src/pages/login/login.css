@@ -90,3 +90,11 @@
     font-weight: 500;
     cursor: pointer;
 }
+
+@media (max-width:768px){
+  .loginWrapper {
+    display: grid !important; 
+    grid-template-rows: 35% 65%;
+    height: 100% !important;
+  }
+}
