@@ -22,3 +22,10 @@ Whistle blower is an anonymous social media like reddit where people can login a
 
 ## 🤔 How to contribute?
 If you wish to contribute to the project, check out `Issues` section, select a issue that you might be able to solve and comment on it. Once you have received an affirmative response from the maintainer, it will be assigned to you. Next, you can check out `CONTRIBUTING.md` to know how to make contributions.
+
+## 📷 Screenshots:
+### Feed Page:
+![image](https://user-images.githubusercontent.com/71400381/193397161-cfb40331-baf3-4543-b15b-c69e48e5c2cb.png)
+### Profile Page:
+![image](https://user-images.githubusercontent.com/71400381/193397400-efe32ae1-b4da-4b50-bcde-8e0af5024adc.png)
+
