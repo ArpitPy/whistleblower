@@ -14,3 +14,8 @@ If you wish to contribute to the project, check out `Issues` section, select a i
 **Frontend:** ReactJS, ContextAPI, CSS<br>
 **Backend:** NodeJS, Express, Axios<br>
 **Database:** MongoDB
+
+## 👁️ About the project:
+1. The backend of project is hosted on railway, You can find the backend api at [https://whistleblower-backend-production.up.railway.app/](https://whistleblower-backend-production.up.railway.app/)
+2. The backend and frontend are connected using proxy link, you can find this at the end of `package.json` as well as in `.env` files.
+3. If you have any queries or suggestions related to the codebase or contributing, make sure to hmu on Discord. **Lord Skeleton#6838**
