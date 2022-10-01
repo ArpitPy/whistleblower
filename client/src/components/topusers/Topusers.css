@@ -1,0 +1,22 @@
+.topusersHeading {
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.topusersLinks{
+    color: orange;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.topusersLinks:hover{
+    text-decoration: none;
+}
+.topusersLinks:visited{
+    text-decoration: none;
+}
+a:-webkit-any-link {
+    text-decoration: none;
+}
