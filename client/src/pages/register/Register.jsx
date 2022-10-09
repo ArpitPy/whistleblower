@@ -1,8 +1,7 @@
 import axios from "axios";
 import { useRef } from "react";
 import "./register.css";
-import { useHistory } from "react-router";
-import { Link } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 
 export default function Register() {
   const username = useRef();
@@ -29,6 +28,10 @@ export default function Register() {
       }
     }
   };
+
+  const resetValidity = () => {
+    passwordAgain.current.setCustomValidity("");
+  }
 
   return (
     <div className="login">
@@ -58,6 +61,7 @@ export default function Register() {
               placeholder="Password"
               required
               ref={password}
+              onChange={resetValidity}
               className="loginInput"
               type="password"
               minLength="6"
@@ -66,6 +70,7 @@ export default function Register() {
               placeholder="Password Again"
               required
               ref={passwordAgain}
+              onChange={resetValidity}
               className="loginInput"
               type="password"
             />
