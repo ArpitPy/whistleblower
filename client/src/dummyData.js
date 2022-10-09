@@ -1,3 +1,4 @@
+//Dummy Profiles
 export const Users = [
   {
     id:1,
@@ -51,6 +52,7 @@ export const Users = [
   },
 ];
 
+//Dummy Posts
 export const Posts = [
   {
     id: 1,
