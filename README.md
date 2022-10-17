@@ -11,7 +11,7 @@ Whistle blower is an anonymous social media like reddit where people can login a
 
 ## ⚡ Technology Used:
 **Frontend:** ReactJS, ContextAPI, CSS<br>
-**Backend:** NodeJS, Express, Axios<br>
+**Backend:** NodeJS, Express, Axios, RESTAPI<br>
 **Database:** MongoDB
 
 ## 👁️ About the project:
