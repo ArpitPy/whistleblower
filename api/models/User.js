@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+//Structure of User model
 const UserSchema = new mongoose.Schema(
   {
     username: {
