@@ -1,4 +1,15 @@
 <h1 align="center">👁️ Whistleblower 🕵🏻</h1>
+<p align="center">
+  <a href="https://github.com/ArpitPy/whistleblower">
+   <img alt="GitHub Repository Stars Count" src="https://img.shields.io/github/stars/ArpitPy/whistleblower?style=social" />
+  </a>
+  <a href="https://github.com/ArpitPy/whistleblower">
+  <img alt="Github Repository Fork Count" src="https://img.shields.io/github/forks/ArpitPy/whistleblower?style=social">
+  </a>
+  <a href="https://github.com/ArpitPy/whistleblower">
+   <img alt="Number of Contributers" src="https://img.shields.io/github/contributors/ArpitPy/whistleblower?style=social">
+  </a>    
+</p>
 <h3 align="center">Post news anonymously and expose the hidden truth!</h3>
 
 <h3 align="center"> ⭐ Make sure to give this repository a star! ⭐ </h3>
@@ -29,3 +40,11 @@ If you wish to contribute to the project, check out `Issues` section, select a i
 ### Profile Page:
 ![image](https://user-images.githubusercontent.com/71400381/193397400-efe32ae1-b4da-4b50-bcde-8e0af5024adc.png)
 
+## Contributors ❤️
+<br>
+<h1 align="center">
+ <b>Thanks to these amazing people
+<h1>
+<a href="https://github.com/ArpitPy/whistleblower/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ArpitPy/whistleblower&&max=817" />
+</a>
