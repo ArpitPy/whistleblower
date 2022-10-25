@@ -14,6 +14,16 @@
 
 <h3 align="center"> ⭐ Make sure to give this repository a star! ⭐ </h3>
 
+## 📚 Table of Contents
+
+  - [About](#❓-about)
+  - [Live Demo](#🟢-live-demo)
+  - [Technology Used](#⚡-technology-used)
+  - [About the project](#👁️-about-the-project)
+  - [How to contribute?](#🤔-how-to-contribute)
+  - [Screenshots](#📷-screenshots)
+  - [Contributors](#❤️-contributors)
+
 ## ❓ About
 Whistle blower is an anonymous social media like reddit where people can login and post any news related to world news.
 
@@ -40,7 +50,7 @@ If you wish to contribute to the project, check out `Issues` section, select a i
 ### Profile Page:
 ![image](https://user-images.githubusercontent.com/71400381/193397400-efe32ae1-b4da-4b50-bcde-8e0af5024adc.png)
 
-## Contributors ❤️
+## ❤️ Contributors
 <br>
 <h1 align="center">
  <b>Thanks to these amazing people
